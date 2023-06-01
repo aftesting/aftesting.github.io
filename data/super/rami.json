@@ -1,0 +1,44 @@
+[
+    {
+        "name": "תמר מג'הול פרימיום 2 ק\"ג",
+        "price": "47.10 ₪",
+        "image": "https://www.rami-levy.co.il/_ipx/w_245,f_webp/https://img.rami-levy.co.il/product/7290018208502/405532/medium.jpg",
+        "category": "produce",
+        "id": 0
+    },
+    {
+        "name": "תמר מג'הול",
+        "price": "19.90 ₪",
+        "image": "https://www.rami-levy.co.il/_ipx/w_245,f_webp/https://img.rami-levy.co.il/product/7290002493563/small.jpg",
+        "category": "produce",
+        "id": 1
+    },
+    {
+        "name": "תמרים ללא חרצנים רמי לוי",
+        "price": "10.90 ₪",
+        "image": "https://www.rami-levy.co.il/_ipx/w_245,f_webp/https://img.rami-levy.co.il/product/7290011154196/small.jpg",
+        "category": "produce",
+        "id": 2
+    },
+    {
+        "name": "אבטיח",
+        "price": "5.90 ₪",
+        "image": "https://www.rami-levy.co.il/_ipx/w_245,f_webp/https://img.rami-levy.co.il/product/169/6346/medium.jpg",
+        "category": "produce",
+        "id": 3
+    },
+    {
+        "name": "מלון",
+        "price": "2.90 ₪",
+        "image": "https://www.rami-levy.co.il/_ipx/w_245,f_webp/https://img.rami-levy.co.il/product/140/41/medium.jpg",
+        "category": "produce",
+        "id": 4
+    },
+    {
+        "name": "ענבים ירוקים",
+        "price": "19.90 ₪",
+        "image": "https://www.rami-levy.co.il/_ipx/w_245,f_webp/https://img.rami-levy.co.il/product/185/65/medium.jpg",
+        "category": "produce",
+        "id": 5
+    }
+  ]
